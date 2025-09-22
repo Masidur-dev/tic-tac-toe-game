@@ -32,7 +32,7 @@ Play with two players, track turns, detect winners, and easily reset or start a 
 
 📸 Screenshots
 
-Game Board: `Screenshot 2.png`
+Game Board: `images/Screenshot 2.png`
 
-Winner Screen: `Screenshot 1.png `
+Winner Screen: `images/Screenshot 1.png `
 
